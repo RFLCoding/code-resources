@@ -18,7 +18,7 @@ h1 {
   margin: 0;
   float: left;
   width: 400px;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Sedgwick Ave', cursive;
 }
 
 h2 {
@@ -73,4 +73,6 @@ footer {
   background-color: black;
   color: white;
   padding: 1em;
+  font-family: 'Sedgwick Ave', cursive;
+  text-align: center;
 }
