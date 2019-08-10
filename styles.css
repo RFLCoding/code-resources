@@ -7,6 +7,7 @@ header {
 body {
   background-color: yellow;
   margin: 0;
+  font-family: 'Slabo 27px', serif;
 }
 
 h1, h2 {
@@ -14,9 +15,13 @@ h1, h2 {
 }
 
 h1 {
-
   float: left;
   width: 400px;
+font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
 }
 
 nav {
@@ -60,4 +65,10 @@ img {
 
 p {
   text-indent: 1em;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 1em;
 }
