@@ -4,10 +4,14 @@ header {
   overflow: auto;
 }
 
+ul {
+  font-size: 18px;
+}
+
 body {
   background-color: yellow;
   margin: 0;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2 {
@@ -22,7 +26,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
   margin: 12px 0;
 }
 
@@ -66,7 +70,7 @@ img {
 }
 
 p {
-  text-indent: 1em;
+  font-size: 18px;
 }
 
 footer {
