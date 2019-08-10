@@ -11,17 +11,19 @@ body {
 }
 
 h1, h2 {
-    margin: 0;
+    /*Things here will impact both h1 and h2 */
 }
 
 h1 {
+  margin: 0;
   float: left;
   width: 400px;
-font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
+  margin: 12px 0;
 }
 
 nav {
